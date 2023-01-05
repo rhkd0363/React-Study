@@ -18,3 +18,7 @@
 ### [03-강의내용 정리](/section_7_debug/README.md)
 - 섹션 7 과정
 - 리액트 앱 디버깅하기
+
+### [04-강의내용 정리](/section_8_prac_pjt/README.md)
+- 섹션 8 과정
+- 연습 프로젝트
