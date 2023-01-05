@@ -1,6 +1,10 @@
 # 섹션 7 디버깅
 
 ### 오류코드 구조
+ERROR in [eslint]
+src\App.js
+  Line 43:6:  Parsing error: Adjacent JSX elements must be wrapped in an 
+enclosing tag. Did you want a JSX fragment <>...</>? (43:6)
 
 - App.js 파일에 43번째 줄에서 루트 요소 하나로 되어있지 않아 발생한 것
 
