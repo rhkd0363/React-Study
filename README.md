@@ -19,6 +19,22 @@
 - 섹션 7 과정
 - 리액트 앱 디버깅하기
 
+---
+
 ### [04-강의내용 정리](/section_8_prac_pjt/README.md)
 - 섹션 8 과정
 - 연습 프로젝트
+
+---
+
+### [05-강의내용 정리](/section_9_Fragments_Portlas_Refs/README.md)
+- 섹션 9 과정
+- Fragment, Portal, Ref (추후 정리 필요)
+
+---
+
+### [06-강의내용 정리](/section_10_effect_reducer_context/README.md)
+- 섹션 10 과정
+- effect, reducer, context
+
+---
