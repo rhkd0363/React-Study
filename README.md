@@ -38,3 +38,9 @@
 - effect, reducer, context
 
 ---
+
+### [07-강의내용 정리](/section_12_behind_react_optimization_tech/README.md)
+- 섹션 12 과정
+- 리액트와 최적화 테크닉
+
+---
