@@ -1,0 +1,32 @@
+.button {
+  background-color: transparent;
+  border-color: linear-gradient(
+    91.16deg,
+    #009ea8 0.41%,
+    rgba(0, 21, 93, 0.988333) 64.41%,
+    rgba(0, 4, 40, 0.98) 99.52%
+  );
+  color: #ffffff;
+  background: linear-gradient(
+    91.16deg,
+    #009ea8 0.41%,
+    rgba(0, 21, 93, 0.988333) 64.41%,
+    rgba(0, 4, 40, 0.98) 99.52%
+  );
+}
+
+.button:hover,
+.button:active {
+  color: white;
+}
+
+.button span {
+  margin: 0 0.5rem;
+}
+
+.badge {
+  background-color: transparent;
+  border-radius: 30px;
+  padding: 0.15rem 1.25rem;
+  color: #ffffff;
+}
